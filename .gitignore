@@ -7,3 +7,5 @@ build/
 *.pt
 .claude/
 data/
+*.png
+
